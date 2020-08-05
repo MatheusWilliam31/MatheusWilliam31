@@ -1,5 +1,5 @@
 # Fala pessoal, me chamo Matheus William 🖖
-Sou um jovem apaixonado por tecnologia e por desenvolvimento, gosto bastante de criar/resolver desafios com o intuito de sempre acregar mais conhecimento.
+Sou um jovem apaixonado por tecnologia e por desenvolvimento, gosto bastante de criar/resolver desafios com o intuito de sempre agregar mais conhecimento.
  <br/> Sou um Developer Student 👨🏾‍💻
 
  <br/> 📖 Tenho um enorme gosto por aprender novas tecnologias.
